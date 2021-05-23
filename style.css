@@ -1,0 +1,58 @@
+.body_background {
+    background-image: url("thumbnail.png");
+    background-position: center;
+    background-size: cover;
+}
+span {
+	margin-top: 10px;
+}
+#btn-btn {
+   height: 30px;
+}
+#drpdwn {
+	height: 25px;
+	margin-top: 10px;
+}
+body {
+	color: white;
+}
+#myCanvas {
+	background-color: white;
+	margin: 20px;
+	width: 100%;
+	height: 97%;
+}
+.line {
+	background-color: white;
+	height: 5px;
+	margin: 10px;
+}
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	color: white;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
